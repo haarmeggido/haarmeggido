@@ -10,5 +10,5 @@
 - ⚡ Fun fact: The liquid inside young coconuts can be used as a substitute for blood plasma.
 
 
-**[GitHub Pages](https://github.com/haarmeggido/haarmeggido.github.io)--
-**[Forked project](https://github.com/haarmeggido/style2paints)
+**[GitHub Pages](https://github.com/haarmeggido/haarmeggido.github.io)**__
+**[Forked project](https://github.com/haarmeggido/style2paints)**
