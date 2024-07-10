@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **LLM research**
 
-- 💬 Ask me about **pytorch and**
+- 💬 Ask me about **pytorch and data visualization**
 
 - 📫 How to reach me **goralczyk.milosz2k@gmail.com**
 
