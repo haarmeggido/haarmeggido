@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on [ML computer vision project](https://github.com/haarmeggido/parking-surveillance)
 
-- 🌱 I’m currently learning **Computer Vision and React framework**
+- 🌱 I’m currently learning **RAG systems and COmputer Vision Processing Pipeline**
 
-- 🤝 I’m looking for help with **LLM research**
+- 🤝 I’m looking for help with **Object Tracking and Persistence**
 
-- 💬 Ask me about **pytorch and data visualization**
+- 💬 Ask me about **Custom Neural Network architectures and data visualization**
 
 - 📫 How to reach me **goralczyk.milosz2k@gmail.com**
 
